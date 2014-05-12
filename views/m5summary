@@ -1,0 +1,45 @@
+    <h3>Introduction</h3>
+    <div class="section">
+      <h4>Motivation</h4>
+      <p>Our overarching motivation is to dig deeper, and uncover insights from our target users around their experiential needs and preferences within our app. Our specific goals are to test the key user tasks, which are viewing and updating one’s own RBT reflection, and browsing friends’ RBT reflections, so that we can reiterate this core functionality. In addition, we also wish to test from our list of high priority features yet to be built, so that this early feedback may guide the implementation.</p>
+      <h4>Questions</h4>
+      <p>Drawing from the key user tasks and list of high priority features, we have formed the following broad questions:</p>
+      For the key user tasks of viewing one’s own RBT, creating one’s own RBT and browsing others’ RBT’s:
+      <ol>
+        <li>What is the usability (ease) and satisfaction? Why? How can it be improved?</li>
+        <li>Which forms of media are useful and satisfying to incorporate into the RBT (photo, video, audio)? Why?</li>
+        <li>What sources of media are useful and satisfying to incorporate into the RBT (personal stored on device, online public)? Why?<br /><br /></li>
+        <li>Is it preferable to display a history of one’s own RBT’s vs only displaying the current RBT (ephemeral style)? Why?</li>
+        <li>Is it preferable to display a history of others’ RBT’s vs only displaying their current RBT? Why?</li>
+        <li>Is it useful and/or satisfying to have social groups? If so, how do you see these working in terms of e.g. friend requests, creating a new group, posting to select groups, max. group size? Why?</li>
+      </ol>
+
+      <h4>Hypothesis</h4>
+      <p>From our bodystorming work, in making our own RBT’s for the week, we suggest the following hypotheses to our study questions:</p>
+      <ol>
+        <li>There is a lot of room for improvement in providing the user a seamless, polished experience, particularly in creating one’s own RBT. The user may get stuck in uploading an image for their RBT, as this currently only accepts links to public images online.</li>
+        <li>Users are more inclined to incorporating photos with their RBT’s, as video and audio is too much time investment from both creation and browsing standpoints.</li>
+        <li>Users would prefer to view a history of their RBT reflections, as a personal development log.</li>
+        <li>Users may only wish to see their friends’ current RBT’s, as this matches the ephemeral nature of the real-life RBT exercise and enables real-time check-ins with one’s friends.</li>
+        <li>Social groups are very beneficial for many use cases, e.g. having circles of close friends from various settings such as sororities, clubs and classes that all share RBT’s independently.</li>
+      </ol>
+    </div>
+
+    <h3>Method</h3>
+    <div class="section">
+      <h4>Participants</h4>
+      <p>We plan to recruit participants via email and word of mouth within our Stanford social networks. We aim to sample a diverse mix of ages from the graduating class of 2014 (undergrad, grad), genders, cultures, and familiarity levels with RBT-type exercises. We also hope to include a few “public space” participants if possible. Additionally, our mentor, Anita Lillie will also be participating in our user study.</p>
+
+      <h4>Procedure</h4>
+      <p>We will conduct user testing in and around the Tresidder dining complex on campus, which lends a realistic usage setting, as this is a leisure space where students eat, work and relax. We hope to offer a small gratuity of the edible type, and return the favor to fellow CS 247 classmates. We will explain the purpose, tasks, data capture, time involvement and gratuity to each participant. They will then have time to ask any clarifying questions and agree to participate. We will treat this as an informed verbal consent to this study.</p>
+      <p>The testing is expected to take approx. 25 mins, and is roughly outlined as follows, pertaining to each study question:</p>
+      <ol>
+        <li>The participant will perform the key user tasks of viewing one’s own RBT, creating one’s own RBT and browsing others’ RBT’s. As a within-subjects comparison, the participant will view 2 displays of their own RBT and other users’ RBT’s, one with history and the other only current (ephemeral style), and discuss their preference. They will use a “thinking aloud” technique in the key user tasks, describing any feelings and thoughts about usability. These activities will be counterbalanced across participants. They will then answer open-ended “why”-type questions and about their suggestions for improvement. It may also be useful to record the number of errors or misinterpretations in each of these tasks.</li>
+        <li>At the point that the participant is creating their own RBT, they will be able to choose media to upload from their device and from the internet. This is done in a WoZ fashion as the current implementation only allows image link upload, with the participant still "thinking aloud."</li>
+        <li>They will then answer survey questions about the forms and sources of media that they tend to upload most on their current social networks e.g. Facebook, Twitter. They will also answer open-ended questions about their choices, and about the last experience they had doing this.</li>
+        <li>They will answer survey questions about online groups and networks they currently exist in, and who would be in their RBT network/group(s) if it was completely their choice. They will be asked who they would post the RBT they just created to, and how this could be facilitated. They will finally be encouraged discuss their usage around group-based tasks such as group creation and selective posting, though this data is of a hypothetical nature.</li>
+      </ol>
+
+      <h4>Data Analysis</h4>
+      <p>We aim to gather a mix of qualitative and quantitative data from users. The qualitative data will be openly coded by clustering responses into categories, and then looking for patterns, unusual features and correlations. The quantitative data will be summarized by statistics (mean, range etc.). In this user study, we have a small sample size, and thus feel that we should place a higher importance on qualitative data which aims to dig deep (e.g. “why” questions), over descriptive statistics which may not be representative. We will draw conclusions to answer the design decisions at hand.</p>
+    </div>
