@@ -1,0 +1,43 @@
+    <h3>Feature Changes/Additions and Rationale</h3>
+    <div class="section">
+      <p>Since our last functional prototype and user test, we reprioritized our development plan based on user testing and on which features we thought were distinctive about the "Rose Bud Thorn" experience.</p>
+      <h4>New User Features</h4>
+      <ul>
+        <li><b>Personal RBT history</b> - users wanted a personal log of their RBT reflections.</li>
+        <li><b>Friend RBT history</b> - users seemed to want the ability to view others' RBT reflection history. We may make this feature an A/B test in our next user study.</li>
+        <li><b>Filtered views by Rose, Bud, and Thorn</b> - users described how they wanted to view their friends' "rose bunches" without interruption from buds and thorns. We implemented a filtering functionality so that users could opt to view one kind of reflection at a time.</li>
+      </ul>
+
+      <h4>UI/UX Improvements</h4>
+      <ul>
+        <li><b>Improved look and feel</b> - seamless user experience is a core part of Rose Bud Thorn. We took the time to develop visual Rose Bud Thorn icons, fix margins and sizes and colors, provide a more intuitive way to navigate among pages, and make post timestamps user-friendly with the "x ago" style popular in other social sharing apps.</li>
+        <li><b>RBT photo clarity and flexibility</b> - users were confused about whether the RBT photo was a rose, bud, or thorn photo, and users also wanted to have the flexibility to not put a photo with their RBT reflection. We implemented this functionality and flexibility in the upload experience and display a small RBT icon overlaying the RBT photo to indicate the photo's type.</li>
+      </ul>
+
+      <h4>Pending Features</h4>
+      <ul>
+        <li><i>Facebook account login (implementation in progress)</i> - we expanded our prototype to allow updating by multiple users.</li>
+        <li><i>RBT photo zoom on click (implementation in progress)</i> - users wanted to be able to click on elements for close-up detail.</li>
+        
+      </ul>
+    </div>
+
+    <h3>Current Progress</h3>
+    <div class="section">
+      <ul>
+        <li>Check out our <b>current prototype <a href="http://rosebt.herokuapp.com">here</a></b>!</li>
+        <li>Check out our <b>current implementation progress <a href="https://docs.google.com/spreadsheet/ccc?key=0Ai2flolFo323dGJVajBlTlh1b0ptQ3ZiejRsYmREdUE&usp=drive_web#gid=0">here</a></b>!<br />
+        Please note that our app is currently being developed for <b>iPhone 5</b>, and may not display properly on other devices.</li>
+      </ul>
+      <center>
+        <img src="../images/m6/profile.png" height=350px>
+        <img src="../images/m6/feed.png" height=350px>
+        <img src="../images/m6/filter.png" height=350px>
+        <img src="../images/m6/upload1.png" height=350px>
+        <img src="../images/m6/upload2.png" height=350px>
+      </center>
+      <p><center>
+        Screenshots! They're pretty!
+        <br />From left to right: my profile, my friend feed, filtering menu, uploading my RBT text, uploading my RBT photo.
+      </center></p>
+    </div>
