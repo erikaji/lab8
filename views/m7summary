@@ -1,12 +1,11 @@
     <h3>Use Study Goals</h3>
     <div class="section">
-      <p>We designed our use study to investigate both performance data (direct observation of user performing key tasks) and perceptual data (user's thoughts spoken aloud and answers to open-ended questions) surrounding the user experience for three core tasks:</p>
+      <p>We designed our use study to investigate both performance data (direct observation of user performing key tasks) and perceptual data (user's thoughts spoken aloud and answers to open-ended questions) surrounding the user interface and user experience for three core tasks:</p>
       <ol>
         <li>viewing friends' Rose Bud Thorns (including filtering),</li>
         <li>viewing one's own Rose Bud Thorn, and </li>
         <li>updating one's own Rose Bud Thorn (including photo upload).</li>
       </ol>
-      <p>Furthermore, we wanted our use study to answer whether or not users wanted to see Rose Bud Thorn history in the app.</p>
     </div>
 
     <h3>Use Study Execution</h3>
