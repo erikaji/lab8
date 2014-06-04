@@ -1,0 +1,46 @@
+    <h3>Final Implementation</h3>
+    <div class="section">
+      <center>
+        <img src="../images/m8/s1.png" height=350px>
+        <img src="../images/m8/s2.png" height=350px>
+        <img src="../images/m8/s3.png" height=350px>
+      </center>
+      <center><a href="http://rosebt.herokuapp.com/"><h3><b>Try our application!</b></h3></a>
+
+        (Designed for iOS 7.1 on iPhone 5)
+        <br /><br />Username 1: johnfishkang@gmail.com
+        <br />Username 2: graruirokwang@gmail.com
+        <br />Password: teampye247
+        <br /><br />Also check out our <a href="/rosebt-master.zip">final source code</a>.</center>
+    </div>
+
+    <h3>Implementation Changes</h3>
+    <div class="section">
+      <p>Based on our <a href="7">use study results</a>, we implemented the following changes in our final application:</p>
+      <ul>
+        <li><b>Sunshine interaction</b> - users described wanting to be able to respond to what their friends wrote, but in a very different way from competing for the most number of likes received on Facebook. To match our Rose Bud thorn theme, we chose the action of <i>giving sunshine</i> as a way for users to respond to their friends' roses, buds, and thorns. In addition, to remove the competitive element, we made sunshines <i>visible only to the giver and the recipient</i>.</li>
+        <li><b>Welcome and help text</b> - many users do not know what Rose Bud Thorn is. We created a welcome screen to introduce the concept of Rose Bud Thorn, and we also placed help text on the upload page to refresh users' understanding of the exercise.</li>
+        <li><b>User login</b> - we completed the backend system allowing for multiple users to update the database, including two dummy accounts for testing. For now, to preserve the small-group feel of the application without introducing a group system (out of scope for our current project), we have not implemented a way to create new accounts and add groups.</li>
+        <li><b>General UI/UX</b> - we made general aesthetic improvements and fixed some navigation bar problems.</li>
+      </ul>
+    </div>
+
+    <h3>Final Poster</h3>
+    <div class="section">
+      <center>
+        <a href="/rosebt-poster.pdf">
+        <img src="../images/m8/poster.png" height=350px>
+        <h3><b>View our Poster!</b></h3>
+        </a>
+      </center>
+    </div>
+
+    <h3>Final Presentation</h3>
+    <div class="section">
+      <center>
+        <a href="https://docs.google.com/presentation/d/127ATSNsvo62cEQg068WXo522byxKv44sBuhEOK9qbH4/edit?usp=sharing">
+        <img src="../images/m8/presentation.png" height=350px>
+        <h3><b>View our Presentation!</b></h3>
+        </a>
+      </center>
+    </div>
